@@ -37,6 +37,8 @@
     transition: 0.2s;
     border-radius: 100%;
     transition: 0.2s;
+    justify-content: center;
+    align-items: center;
 }
 
 
